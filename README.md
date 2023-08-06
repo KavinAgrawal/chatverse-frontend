@@ -14,11 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 This app has **100% test coverage**.
 
-Launches the test runner in the interactive watch mode.\
+Launches the test runner in the interactive watch mode.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build` folder.
 App is ready to be deployed!
 
 ## Some Screenshots of the App
