@@ -25,8 +25,8 @@ App is ready to be deployed!
 
 ### Landing Page
 
-![LandingPage](https://github.com/KavinAgrawal/chatverse-frontend/assets/32576235/c009feea-57ae-417d-b733-ff6f94111477)
+![LandingPage](https://github.com/KavinAgrawal/chatverse-frontend/assets/32576235/aae2459d-10e4-4bdc-85a8-23f2f1bf69bf)
 
 ### Main Chat Page
 
-![MainChatPage](https://github.com/KavinAgrawal/chatverse-frontend/assets/32576235/d1c61646-ff74-46e9-80cc-c1aeb542183e)
+![MainChatPage](https://github.com/KavinAgrawal/chatverse-frontend/assets/32576235/fb8827a3-8891-46ea-8812-0f385b980f27)
